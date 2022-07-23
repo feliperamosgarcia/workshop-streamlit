@@ -6,7 +6,7 @@ st.title('Teste Sirius')
 
 streamlit run Teste_Sirius.py
 
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/streamlit_app.py
+streamlit run https://raw.githubusercontent.com/streamlit/demo-Teste-Sirius/master/streamlit_app.py
 
 
 
