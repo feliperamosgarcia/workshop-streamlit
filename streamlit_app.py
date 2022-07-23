@@ -17,7 +17,7 @@ def load_data(nrows):
 
 
 st.subheader('Raw data')
-st.write(data)
+
 
 st.subheader('Number of pickups by hour')
 
